@@ -1,0 +1,1 @@
+function q = getIntQ(accX ,accY, accZ, magX,magY ,magZ)

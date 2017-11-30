@@ -1,0 +1,10 @@
+libemlrt.lib
+libcovrt.lib
+libut.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:emlrtMexFcnProperties
+/export:ekf_6dof
+/export:ekf_6dof_initialize
+/export:ekf_6dof_terminate
+/export:ekf_6dof_atexit

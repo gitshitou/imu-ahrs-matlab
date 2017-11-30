@@ -1,0 +1,1 @@
+A= simpleproduct(10,3);
